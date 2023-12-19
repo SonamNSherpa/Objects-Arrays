@@ -1,0 +1,33 @@
+.title {
+  font-family: cursive;
+  margin-left: 10px;
+  font-size: 20px;
+}
+.inner {
+  display: flex;
+  flex-direction: row;
+  justify-content: stretch;
+  align-items: center;
+  margin-right: 50px;
+}
+.outer {
+  padding: 10px 10px;
+  background-color: lightcyan;
+  justify-content: stretch;
+  display: inline;
+  align-items: center;
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  margin-bottom: -10px;
+}
+.student_name {
+  font-size: 20px;
+  display: inline;
+  align-items: center;
+  margin-right: 15px;
+  font-weight: bolder;
+}
+.detail {
+  margin: 0px 5px;
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Alice",
+    "age": 20,
+    "courses": [1, 2]
+  },
+  {
+    "id": 2,
+    "name": "Bob",
+    "age": 22,
+    "courses": [3, 4]
+  },
+  {
+    "id": 3,
+    "name": "Charlie",
+    "age": 25,
+    "courses": [2, 3]
+  },
+  {
+    "id": 4,
+    "name": "David",
+    "age": 23,
+    "courses": [1, 4]
+  },
+  {
+    "id": 5,
+    "name": "Eve",
+    "age": 21,
+    "courses": [2, 3]
+  },
+  {
+    "id": 6,
+    "name": "Frank",
+    "age": 24,
+    "courses": [1, 4]
+  }
+]
